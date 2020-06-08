@@ -1,4 +1,5 @@
-
+[![Build Status](https://travis-ci.org/gnole/lab06.svg?branch=master)](https://travis-ci.org/gnole/lab06)
+[![Build status](https://ci.appveyor.com/api/projects/status/qk3cs9ouualceoc9?svg=true)](https://ci.appveyor.com/project/gnole/lab06)
 ## Laboratory work VI
 
 Данная лабораторная работа посвещена изучению средств пакетирования на примере **CPack**
