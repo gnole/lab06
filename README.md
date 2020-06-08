@@ -18,9 +18,9 @@ $ open https://cmake.org/Wiki/CMake:CPackPackageGenerators
 ## Tutorial
 Создание переменных среды и установка их значений, а также связывание команд с их "новыми" названиями
 ```sh
-$ export GITHUB_USERNAME=Evgengrmit
-$ export GITHUB_EMAIL==evgengrmit@icloud.com
-$ alias edit=atom
+$ export GITHUB_USERNAME=gnole
+$ export GITHUB_EMAIL=olegbouchin@gmail.com
+$ alias edit=vim
 $ alias gsed=sed # for *-nix system
 ```
 Начало работы в каталоге workspace
